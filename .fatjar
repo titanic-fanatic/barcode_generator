@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Mar 04 20:16:07 MST 2012
+onejar.license.required=false
+manifest.classpath=/bin
+manifest.removesigners=false
+onejar.checkbox=true
+jarname=C\:\\Users\\Britney\\Desktop\\BarcodeGenerator1.1.jar
+manifest.mergeall=false
+manifest.mainclass=CheckDigitCalculator
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=lib
+excludes=
+includes=
